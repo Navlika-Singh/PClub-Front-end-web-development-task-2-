@@ -1,0 +1,50 @@
+body{
+    background-color: #eee2dc;
+    padding:20px;
+}
+.mainbody{
+  background-color: #edc7b7;
+
+}
+#header{
+    background-color: #123C69;
+    
+}
+#introduction{
+    background-color: #AC3B61;
+}
+#about-me{
+    background-color: #BAB2B5;
+    
+}
+#interest{
+    background-color: #BAB2B5;
+    
+}
+#footer{
+    background-color: #123C69;
+    
+}
+#font-style-1{
+    font-family: sans-serif;
+}
+#index{
+    padding:10px;
+    font-family: sans-serif;
+    color: white;
+    word-spacing: 60px;
+}
+p{
+    font-family: Helvetica;
+    padding: 10px;
+    padding-bottom: 70px;
+}
+#contact{
+    color: white
+}
+img{
+    position: relative;
+    float: right;
+    padding-right:10px;
+    object-fit: contain;
+}
